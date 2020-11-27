@@ -1,0 +1,7 @@
+### IDEA ###
+.idea
+.mvn
+*.iml
+
+### JAVA ###
+target
